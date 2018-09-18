@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/VuecliPractice',
     proxyTable: {},
 
     // Various Dev Server settings
